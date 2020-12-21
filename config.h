@@ -4,7 +4,7 @@ static const Block blocks[] = {
 	{"⌨", "kbselect", 0, 30},
 	{"", "cat /tmp/recordingicon 2>/dev/null",	0,	9},
 	{"",	"music",	0,	11},
-	{"",	"corona",	200,	20},
+	{"",	"corona",	18000,	20},
 	{"",	"pacpackages",	0,	8},
 	{"",	"news",		0,	6},
 	/* {"",	"torrent",	20,	7}, */
